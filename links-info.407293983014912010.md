@@ -2,8 +2,10 @@
 https://discord.gg/xmWd3yy  
 
 [公式サイト]  
-\~1.1.0(orphanate氏作) <http://bitzeny.org/>  
-z1.2.0\~(BitZenyCoreDev団体作) <https://bitzeny.tech/>  
+- \~1.1.0(orphanate氏作)  
+<http://bitzeny.org/>  
+- z1.2.0\~(BitZenyCoreDev団体作)  
+<https://bitzeny.tech/>  
 
 [GitHub] (技術者向け)  
 <https://github.com/BitzenyCoreDevelopers>  
