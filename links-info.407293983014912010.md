@@ -10,14 +10,15 @@ z1.2.0\~(BitZenyCoreDev団体作) <https://bitzeny.tech/>
 <https://github.com/bitzenyPlus>  
 
 [ウォレット]
-- BitZeny Core  
-<https://github.com/BitzenyCoreDevelopers/bitzeny/releases>
-- もにゃ  
-<https://monya-wallet.github.io/>
-- Electrum for BitZeny  
-<https://zny.electrum-jp.net/>
-- BitZeny Online Wallet (BitZeny 1.0.2)  
-<https://bitzeny.jp/>
+- BitZeny 1.2.0
+    - BitZeny Online Wallet(zenywallet氏作)  
+      <https://bitzeny.jp/>
+- BitZeny 2.0.2
+    - BitZeny Core Wallet  
+      <https://github.com/BitzenyCoreDevelopers/bitzeny/releases>
+    - もにゃ
+      <https://monya-wallet.github.io/>
+    - Electrum for BitZeny  <https://zny.electrum-jp.net/>
 
 [ブロックチェーン エクスプローラー]  
 - <https://insight.bitzeny.jp/>  
