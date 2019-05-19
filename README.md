@@ -1,4 +1,4 @@
-# BitZenyDiscod Information
+# BitZenyDiscord Information
 
 ## フォーマット
 - Discord MarkDown
