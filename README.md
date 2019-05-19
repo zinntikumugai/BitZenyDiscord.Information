@@ -1,1 +1,1 @@
-# BitZenyDiscod Information
+# BitZenyDiscord Information
