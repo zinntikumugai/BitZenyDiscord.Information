@@ -1,18 +1,32 @@
-[このサーバーの招待URL]  
+[招待URL]  
 https://discord.gg/xmWd3yy  
+
 [公式サイト]  
 \~1.1.0(orphanate氏作) <http://bitzeny.org/>  
 z1.2.0\~(BitZenyCoreDev団体作) <https://bitzeny.tech/>  
-[ブロックチェーン エクスプローラー]  
-<https://insight.bitzeny.jp/>  
-<https://zenyinsight.tomotomo9696.xyz/>  
-<http://namuyan.dip.jp/MultiLightBlockExplorer/index.php?page=selectcoin&coin=zeny>  
-<https://zeny.insight.monaco-ex.org/>  
-<https://insight.bitzeny.pw/>  
+
 [GitHub] (技術者向け)  
 <https://github.com/BitzenyCoreDevelopers>  
-[オンラインウォレット]  
-<https://bitzeny.jp/>  
+<https://github.com/bitzenyPlus>  
+
+[ウォレット]
+- BitZeny Core  
+<https://github.com/BitzenyCoreDevelopers/bitzeny/releases>
+- もにゃ  
+<https://monya-wallet.github.io/>
+- Electrum for BitZeny  
+<https://zny.electrum-jp.net/>
+- BitZeny Online Wallet (BitZeny 1.0.2)  
+<https://bitzeny.jp/>
+
+[ブロックチェーン エクスプローラー]  
+- <https://insight.bitzeny.jp/>  
+- <https://zenyinsight.tomotomo9696.xyz/>  
+- <http://namuyan.dip.jp/MultiLightBlockExplorer/index.php?page=selectcoin&coin=zeny>  
+- <https://zeny.insight.monaco-ex.org/>  
+- <https://zny.blockbook.ovh/>
+- <https://zeny.blockbook.zenypota.net/>
+
 [コミュニティ]  
 BitZenyフォーラム  
 <https://bitzeny.info/>  
