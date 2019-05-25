@@ -38,7 +38,7 @@ https://discord.gg/xmWd3yy
 <https://pools.currency.ovh/BitZeny>  
 - BitZeny Mining Pools(ZNY) Yescrypt  
 <https://miningpoolstats.stream/bitzeny>  
-- Mining pools for BitZeny (ZNY)[YescryptR8]  
+- Mining pools for BitZeny (ZNY)[YescryptR8] - Pool Explorer | Mining Pools Monitor  
 <https://poolexplorer.com/coin/5324>
 
 [コミュニティ]  
